@@ -22,7 +22,7 @@ body {
     display: flex;
     flex-direction: column;
 
-    background-image: url('/images/bg_login6.jpg');
+    background-image: url('/login_com_validação/images/bg_login6.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
