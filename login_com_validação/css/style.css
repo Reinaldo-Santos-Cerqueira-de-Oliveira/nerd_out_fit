@@ -82,6 +82,9 @@ button {
     background-color: var(--primary-color);
     color: black;
 }
+button:hover{
+    background-color: rgb(49, 121, 253) ;
+}
 input ~ label {
     position: absolute;
     top: 16px;
@@ -103,13 +106,12 @@ input ~ label {
     border: 1px solid rgba(255, 0, 0, 0.5);
     padding: 0.4em;
 }
-.social_icon a{
+a{
     font-size: 1rem;
     color: white;
-    margin: 10px;
 }
 
-.social_icon a:hover{
+a:hover{
     color:  rgb(98, 152, 253) ;
     cursor: pointer;
 }
